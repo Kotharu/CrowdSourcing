@@ -16,4 +16,5 @@ included in this project.
 
 
 To view output go to CrowdSourcing/PervasiveProject/Nagendra Data/Newyork files/Swarm data/
+
  map_10.html, map_5.html, map_all.html. Download these files and view the heap maps for the data collected in Newyork region.
